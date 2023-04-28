@@ -6,7 +6,7 @@ This is a Discord music bot that allows users to play music in a voice channel u
 
 ## Features
 
-- Play music from YouTube,Spotify,ALl Sources 
+- Play music from YouTube, Spotify, ALL Sources 
 - Pause and resume playback
 - Skip to the next song in the queue
 - Show the current song and queue
