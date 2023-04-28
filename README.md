@@ -29,7 +29,7 @@ To use the bot, invite it to your server and join a voice channel. Then, use the
 
 To use this bot on your own server, you will need to follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/discord-music-bot.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/ScienceGear/music-bot.git`.
 2. Install the required dependencies by running `npm install` in the root directory.
 3. Create a new application and bot account in the [Discord Developer Portal](https://discord.com/developers/applications).
 4. Copy the `TOKEN` for your bot and save it to `botconfig.js`
