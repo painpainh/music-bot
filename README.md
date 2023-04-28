@@ -2,7 +2,7 @@
 
 This is a Discord music bot that allows users to play music in a voice channel using commands.
 
-[![Demo Video](https://img.youtube.com/vi/61kLtBoTOjc/0.jpg)](https://www.youtube.com/watch?v=61kLtBoTOjc)
+[![Demo Video](https://cdn.discordapp.com/attachments/1097783484614987817/1101452133099900948/Thumnail.png)](addingsooner)
 
 ## Features
 
